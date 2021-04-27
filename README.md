@@ -11,3 +11,6 @@
    ## Third thematic block
    truly the second best
    ___
+Foo
+***
+bar
