@@ -16,4 +16,5 @@ Foo
 bar
 * bar
 * trullu
-* ** third force
+*** 
+third force
