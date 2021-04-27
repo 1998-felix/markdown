@@ -1,2 +1,3 @@
 # markdown
-> foo
+- foo
+- too
