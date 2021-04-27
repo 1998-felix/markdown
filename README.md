@@ -1,3 +1,5 @@
-# markdown
-  truth
-  ===
+Foo *bar*
+=========
+
+Foo *bar*
+---------
