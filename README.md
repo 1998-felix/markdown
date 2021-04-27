@@ -1,3 +1,3 @@
 # markdown
--. foo
--. too
+- `one
+- two`
