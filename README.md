@@ -1,5 +1,5 @@
 # markdown
    ***
-   ##Thematic block 1
+   ## Thematic block 1
    truly the best
    ***
